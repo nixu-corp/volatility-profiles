@@ -1,9 +1,9 @@
 Profiles
 ========
 
-Volatility profiles for Linux and Mac OS X
+Volatility profiles for Linux, Mac OS X and FreeBSD (Citrix NetScaler).
 
-Each of these profiles is implemented as a zip file. You can enable them individually with your Volatility installation by copying Linux profiles to volatility/plugins/overlays/linux and Mac profiles to volatility/plugins/overlays/mac. 
+Each of these profiles is implemented as a zip file. You can enable them individually with your Volatility installation by copying Linux profiles to volatility/plugins/overlays/linux, Mac profiles to volatility/plugins/overlays/mac and FreeBSD profiles to volatility/plugins/overlays/freebsd.
 
 NOTE: Only enable the profiles you plan to use. If you copy all zip files into the aforementioned directories, Volatility will be extremely slow to load. 
 
